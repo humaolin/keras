@@ -1,0 +1,8 @@
+INFO    -  Building documentation... 
+INFO    -  Cleaning site directory 
+[I 181029 12:57:40 server:292] Serving on http://ubri.top:8800
+[I 181029 12:57:40 handlers:59] Start watching changes
+[I 181029 12:57:40 handlers:61] Start detecting changes
+[I 181029 12:57:54 handlers:132] Browser Connected: http://ubri.top:8800/optimizers/
+[I 181029 12:57:58 handlers:132] Browser Connected: http://ubri.top:8800/optimizers/
+[I 181029 12:58:06 handlers:132] Browser Connected: http://ubri.top:8800/activations/
